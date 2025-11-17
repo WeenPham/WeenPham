@@ -13,22 +13,20 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture>
+<!-- <picture>
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
+</picture> -->
 
 <br>
 
 - AI Engineer & Data Lover  
 - Interested in Machine Learning, Deep Learning, Odoo, and Automation  
-- Currently learning more about MLOps, Backend, and System Design  
-- Personal website (updating soon)  
+- Currently learning more about MLOps, Backend, and System Design   
 - Open to collaborations and new opportunities  
 
 <br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br><br>
