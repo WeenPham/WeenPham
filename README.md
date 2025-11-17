@@ -1,6 +1,9 @@
 <div align="center">
    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"/>
+   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
 </div>
+
 
 <h1 align="center"><b>Hi , I'm Thang Pham </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -9,6 +12,25 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer+%7C+Data+Analysis;Full-Stack+Learner;Always+building+and+learning...;Nice+to+meet+you!+😄">
   </a>
 </p>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
@@ -16,6 +38,7 @@
 - Interested in Machine Learning, Deep Learning, Odoo, and Automation  
 - Currently learning more about MLOps, Backend, and System Design  
 - Open to collaborations and new opportunities
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
