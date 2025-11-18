@@ -27,6 +27,7 @@
 <br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - AI Engineer & Data Lover  
 - Interested in Machine Learning, Deep Learning, Odoo, and Automation  
