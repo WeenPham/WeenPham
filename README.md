@@ -25,15 +25,19 @@
 <br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
+<code>
 
-- AI Engineer & Data Lover  
-- Interested in Machine Learning, Deep Learning, Odoo, and Automation  
-- Currently learning more about MLOps, Backend, and System Design  
-- Open to collaborations and new opportunities
-
-
+	
+- (<strong>AI Engineer & Data Lover</strong>)  
+- Passionate about (<strong>Machine Learning, Deep Learning, Odoo, and Automation</strong>)  
+- Currently expanding knowledge in(<strong>MLOps, Backend Development, and System Design</strong>)   
+- Open to (<strong>collaborations</strong>), projects, and new opportunities  
+	
+</code>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
