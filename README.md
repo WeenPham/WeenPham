@@ -68,9 +68,19 @@
 
 -----
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle;"> <b>GitHub Stats</b>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WeenPham&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeenPham&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180" alt="Top Languages" />
+  
+  <img width="10" height="1" />
+
+  <a href="https://github.com/WeenPham">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WeenPham&theme=nord_bright" height="180" alt="WeenPham Stats" />
+  </a>
+
+</div>
 
 -----
 <h3 align="center" >Connect with me 🤝 </h3>
@@ -95,4 +105,3 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
    
-
