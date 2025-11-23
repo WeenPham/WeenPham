@@ -72,12 +72,12 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeenPham&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeenPham&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="100" alt="Top Languages" />
   
   <img width="5" height="1" />
 
   <a href="https://github.com/WeenPham">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WeenPham&theme=nord_bright" height="180" alt="WeenPham Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WeenPham&theme=nord_bright" height="100" alt="WeenPham Stats" />
   </a>
 
 </div>
