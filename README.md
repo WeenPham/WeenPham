@@ -35,7 +35,7 @@
 - <strong>AI Engineer & Data Lover</strong> 
 - Passionate about <strong>Machine Learning, Deep Learning, Odoo, and Automation</strong>  
 - Currently expanding knowledge in <strong>MLOps, Backend Development, and System Design</strong>  
-- Open to (<strong>collaborations</strong>), projects, and new opportunities  
+- Open to <strong>collaborations</strong>, projects, and new opportunities  
 	
 </code>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
